@@ -3,7 +3,7 @@
 Cloud Computing - PTI 2802 - Pertemuan 3 (Project Inception)
 
 ## Author
-Nisrina Amanda Puteri - NIM 25832072010 - Kelas: (isi kelasmu)
+Nisrina Amanda Puteri - NIM 25832072010 - Kelas: PTI 2B
 
 ## Problem
 Pasien dengan kebutuhan diet terapeutik (diabetes, hipertensi, pasca-operasi)
